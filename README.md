@@ -18,7 +18,7 @@ In order to improve its results, the company needs to understand the main reason
 
 3) Customers who have delayed payment for more than 20 days
 
-![](./late_payment.png)
+![](./late_payment_days.png)
 
 
 **Strategic recommendations for minimizing churn and enhancing customer retention:**
